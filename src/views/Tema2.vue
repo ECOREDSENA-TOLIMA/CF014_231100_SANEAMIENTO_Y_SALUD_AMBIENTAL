@@ -289,10 +289,6 @@
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema2/22.jpg', alt='Imagen decorativa')
-
-
-
-
 </template>
 
 <script>
