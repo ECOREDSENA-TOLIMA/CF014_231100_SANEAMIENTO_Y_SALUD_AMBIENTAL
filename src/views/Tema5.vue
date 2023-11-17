@@ -4,23 +4,22 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
-        span 1
-      h1 Formatos
+        span 5
+      h1 Indicadores
+    
+    separador 
+    .titulo-segundo.color-acento-contenido
+      h2#t_5_1 5.1. Tipos
 
     separador 
     .titulo-segundo.color-acento-contenido
-      h2#t_1_1 1.1. Instrumentos de evaluación
+      h2#t_5_2 5.2. Fichas técnicas
 
-    separador 
-    .titulo-segundo.color-acento-contenido
-      h2#t_1_2 1.2. Listados
-      
 </template>
 
 <script>
 export default {
-  name: 'Tema1',
-  components: {},
+  name: 'Tema3',
   data: () => ({
     // variables de vue
   }),

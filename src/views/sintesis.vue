@@ -3,13 +3,12 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p Con el diagrama de actividades se termina la descripción de las tres técnicas usadas para la especificación y el análisis de requisitos, como se pudo analizar cada una de las técnicas nos brinda características para lograr representar gráficamente y de una forma clara, los requisitos que un usuario necesita poder cumplir satisfactoriamente con las solicitudes de los clientes y usuarios, por otro lado se pueden usar todas las técnicas en una especificación y análisis de requisitos si se ve la necesidad.
-    p.mb-5 A continuación, se muestra un mapa conceptual con los elementos más importantes desarrollados en este componente.
+    p.mb-5 A continuación, se describe el tema principal del componente formativo Plan de promotoría ambiental, que es una estrategia crucial para fomentar la conciencia y acción en la protección de nuestro entorno. A través de actividades educativas, difusión de información y participación comunitaria, busca empoderar a las personas para tomar medidas responsables y sostenibles. Este plan aborda desafíos como la conservación de recursos, reducción de residuos y preservación de la biodiversidad. Al trabajar juntos, podemos inspirar un cambio positivo en comportamientos y actitudes hacia el medio ambiente, generando un impacto duradero para las generaciones venideras. La promotoría ambiental es una herramienta esencial en la construcción de un futuro más verde y equilibrado.
 
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
-          img(src="@/assets/curso/temas/sintesis.svg", alt="alt")
+          img(src="@/assets/curso/temas/sintesis.svg", alt="En la síntesis se muestra el desarrollo de los diferentes temas del componente formativo plan de promotoría ambiental, entre ellos: formatos, manejo de grupo, mejora continua, evaluación e indicadores.")
       .col-auto
         a.anexo.mb-4(:href="obtenerLink('/downloads/sintesis.pdf')" target="_blank")
           .anexo__icono

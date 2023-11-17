@@ -5,7 +5,15 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 2
-      h1 Titulo de primer nivel
+      h1 Manejo de grupos
+    
+    separador 
+    .titulo-segundo.color-acento-contenido
+      h2#t_2_1 2.1. Técnicas de concertación
+
+    separador 
+    .titulo-segundo.color-acento-contenido
+      h2#t_2_2 2.2. Expresión oral y escrita
 
 </template>
 
