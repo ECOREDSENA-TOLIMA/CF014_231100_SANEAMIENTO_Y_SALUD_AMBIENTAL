@@ -163,20 +163,20 @@
     .row.justify-content-center
       .col-lg-6.col-12.mb-3
         .tarjeta.p-4(style="background-color: #E6FFF9; height: 100%")
-          h4 Obtener información para la toma de decisiones:
-          p estas mediciones proporcionan información valiosa que impacta en la toma de decisiones para mejorar el aprendizaje de los estudiantes o del grupo en su conjunto.
+          h4 Obtener información para la toma de decisiones
+          p Estas mediciones proporcionan información valiosa que impacta en la toma de decisiones para mejorar el aprendizaje de los estudiantes o del grupo en su conjunto.
       .col-lg-6.col-12.mb-3
         .tarjeta.p-4(style="background-color: #E6FFF9; height: 100%")
-          h4 Identificar el desempeño del estudiante:
-          p ayudan a evaluar el desempeño de los estudiantes en relación con los criterios y estándares establecidos.
+          h4 Identificar el desempeño del estudiante
+          p Ayudan a evaluar el desempeño de los estudiantes en relación con los criterios y estándares establecidos.
       .col-lg-6.col-12.mb-3
         .tarjeta.p-4(style="background-color: #E6FFF9; height: 100%")
-          h4 Trabajar dentro de criterios claros:
-          p las mediciones se realizan dentro de criterios claros, conocidos y predefinidos, lo que garantiza que la evaluación sea justa y objetiva.
+          h4 Trabajar dentro de criterios claros
+          p Las mediciones se realizan dentro de criterios claros, conocidos y predefinidos, lo que garantiza que la evaluación sea justa y objetiva.
       .col-lg-6.col-12.mb-3
         .tarjeta.p-4(style="background-color: #E6FFF9; height: 100%")
-          h4 Comunicar a los estudiantes:
-          p la comunicación de los resultados de las mediciones a los estudiantes les permite comprender su proceso y resultados, lo que a su vez puede contribuir a mejorar su aprendizaje.
+          h4 Comunicar a los estudiantes
+          p La comunicación de los resultados de las mediciones a los estudiantes les permite comprender su proceso y resultados, lo que a su vez puede contribuir a mejorar su aprendizaje.
     
     .row.mt-5
       p(data-aos="fade-left") En cuanto a las fórmulas para evaluar lo que aprenden los estudiantes, existen hasta seis enfoques, y su elección depende del objetivo y el momento de la evaluación. A continuación, se explicará en qué consiste cada una de ellas:
@@ -213,11 +213,11 @@
     p(data-aos="fade-left") A continuación, se mencionan las principales técnicas de recolección de información que le servirán en su vida laboral, para recolectar información de los grupos de trabajo o las comunidades que esté interviniendo como promotor ambiental:
 
     .row.justify-content-center
-      .col-lg-10.col-12
+      .col-lg-11.col-12
         .titulo-sexto.color-acento-contenido
           h5 Tabla 2.
           span #[i Técnicas recolección información]
-        .tabla-a.color-acento-contenido.mb-5 
+        .tabla-a.color-acento-contenido.mb-5.clstabla
           table
             thead
               tr(style="background-color: #FFAE7E")
@@ -233,7 +233,7 @@
                   li Entrevista focalizada.
                   li Entrevista simultánea.
                   li Entrevista sucesiva.
-              tr
+              tr(style="background-color: #E2E8EC")
                 td.text-center Encuesta
                 td Son una técnica valiosa para recopilar datos en investigaciones y estudios de opinión. Se basan en la observación y recopilación de información a través de un conjunto de preguntas dirigidas a una muestra representativa de la población de estudio. Estos son los tres tipos principales de encuestas:
                   p

@@ -182,7 +182,7 @@ export default {
     {
       tema: 'Fichas Técnicas',
       referencia:
-        'Comisión Iberoamericana de Calidad Educativa. (2014). ¿Qué es Metacognición? [Video] YouTube.Ideam. (s. f.) Formato común de hoja metodológica de indicadores ambientales. ',
+        'Ideam. (s. f.) Formato común de hoja metodológica de indicadores ambientales.',
       tipo: 'Documento',
       link:
         'http://www.ideam.gov.co/documents/11769/646961/V3.06+HM+Promedio+fosforos+Totales.pdf/47ec0009-b780-4c5d-9141-5a1d500f751e',

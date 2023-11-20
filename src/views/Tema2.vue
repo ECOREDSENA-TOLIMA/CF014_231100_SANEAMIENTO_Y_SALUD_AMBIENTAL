@@ -48,6 +48,9 @@
                 | Se deben adaptar al grupo y ser susceptibles de ser alcanzados: los objetivos deben ser realistas y adecuados para las capacidades y necesidades del grupo. Deben ser desafiantes pero alcanzables.
               li 
                 i.fas.fa-angle-right(style="color: #FFAE7E")
+                | Deben ser medibles para garantizar su ejecución: los objetivos deben poder ser medidos de manera que se pueda evaluar el progreso y el logro de los mismos a lo largo de la capacitación.
+              li 
+                i.fas.fa-angle-right(style="color: #FFAE7E")
                 | Se deben fijar y dar a conocer a los integrantes de cada grupo: es esencial que los objetivos se establezcan claramente y se comuniquen a todos los miembros del grupo para que estén al tanto de lo que se espera de ellos y puedan trabajar en consecuencia.
     .row.mt-5
       p(data-aos="fade-left") Cumplir con estas características ayudará a asegurar que los objetivos sean efectivos y contribuyan al éxito de la capacitación del grupo.
@@ -65,8 +68,8 @@
             img(src='@/assets/curso/temas/tema2/4.svg' alt='AvatarTop')
           .tarjeta(style="background-color:#D5FFF5")
             .p-4
-            h4 Énfasis en el bienestar colectivo:
-            p.p-2 la concertación en el ámbito educativo, ya sea en la educación comunitaria o en la educación en general, pone un énfasis en el bienestar del colectivo por encima del bienestar individual. Esto está en consonancia con los principios establecidos en la Constitución Política de Colombia de 1991.
+            h4 Énfasis en el bienestar colectivo
+            p.p-2 La concertación en el ámbito educativo, ya sea en la educación comunitaria o en la educación en general, pone un énfasis en el bienestar del colectivo por encima del bienestar individual. Esto está en consonancia con los principios establecidos en la Constitución Política de Colombia de 1991.
     .row.justify-content-center.align-items-center.mb-3
       .col-lg-8.col-12
         .tarjeta-avatar-b.mb-5
@@ -74,8 +77,8 @@
             img(src='@/assets/curso/temas/tema2/5.svg' alt='AvatarTop')
           .tarjeta(style="background-color:#D5FFF5")
             .p-4
-            h4 Codeterminación de políticas:
-            p.p-2 la concertación no se limita a la consulta de actores clave, sino que implica un proceso participativo y negociado en el que el gobierno se compromete a adoptar políticas públicas específicas basadas en los acuerdos alcanzados.
+            h4 Codeterminación de políticas
+            p.p-2 La concertación no se limita a la consulta de actores clave, sino que implica un proceso participativo y negociado en el que el gobierno se compromete a adoptar políticas públicas específicas basadas en los acuerdos alcanzados.
     .row.justify-content-center.align-items-center.mb-3
       .col-lg-8.col-12
         .tarjeta-avatar-b.mb-5
@@ -83,8 +86,8 @@
             img(src='@/assets/curso/temas/tema2/6.svg' alt='AvatarTop')
           .tarjeta(style="background-color:#D5FFF5")
             .p-4
-            h4 Proceso participativo y negociado:
-            p.p-2 la concertación involucra la participación activa de actores sociales clave en la formación de políticas públicas a nivel nacional o local, lo que afecta la dirección y el contenido de estas políticas, con implicaciones significativas para la sociedad en su conjunto.
+            h4 Proceso participativo y negociado
+            p.p-2 La concertación involucra la participación activa de actores sociales clave en la formación de políticas públicas a nivel nacional o local, lo que afecta la dirección y el contenido de estas políticas, con implicaciones significativas para la sociedad en su conjunto.
     .row.justify-content-center.align-items-center.mb-3
       .col-lg-8.col-12
         .tarjeta-avatar-b.mb-5
@@ -92,8 +95,8 @@
             img(src='@/assets/curso/temas/tema2/7.svg' alt='AvatarTop')
           .tarjeta(style="background-color:#D5FFF5")
             .p-4
-            h4 Análisis de determinantes externos:
-            p.p-2 para comprender estos procesos, es necesario examinar los factores externos que influyen en el proceso de concertación. Esto implica analizar el entorno que rodea y afecta el proceso de toma de decisiones.
+            h4 Análisis de determinantes externos
+            p.p-2 Para comprender estos procesos, es necesario examinar los factores externos que influyen en el proceso de concertación. Esto implica analizar el entorno que rodea y afecta el proceso de toma de decisiones.
     .row.justify-content-center.align-items-center.mb-3
       .col-lg-8.col-12
         .tarjeta-avatar-b.mb-5
@@ -101,8 +104,8 @@
             img(src='@/assets/curso/temas/tema2/8.svg' alt='AvatarTop')
           .tarjeta(style="background-color:#D5FFF5")
             .p-4
-            h4 Análisis de determinantes externos:
-            p.p-2 para comprender estos procesos, es necesario examinar los factores externos que influyen en el proceso de concertación. Esto implica analizar el entorno que rodea y afecta el proceso de toma de decisiones.
+            h4 Análisis de determinantes externos
+            p.p-2 Para comprender estos procesos, es necesario examinar los factores externos que influyen en el proceso de concertación. Esto implica analizar el entorno que rodea y afecta el proceso de toma de decisiones.
 
     .row.mb-3
       p(data-aos="fade-left") La concertación es una herramienta importante para promover la participación democrática y la colaboración en la toma de decisiones en una variedad de contextos, incluido el ámbito educativo, y para garantizar que las políticas públicas se ajusten a las necesidades y preocupaciones de la sociedad en su conjunto.

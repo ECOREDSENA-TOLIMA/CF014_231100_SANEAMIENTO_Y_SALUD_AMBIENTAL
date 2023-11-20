@@ -67,6 +67,7 @@
       .col-10
         .row.justify-content-center.align-items-center
           .col-lg-8.col-12
+            p(data-aos="fade-left") Los indicadores desempeñan un papel crucial en la toma de decisiones en una amplia variedad de contextos, ya que proporcionan información específica que permite comprender y evaluar situaciones o fenómenos. Son como señales o pistas que guían nuestras decisiones al proporcionar datos cuantitativos o cualitativos sobre lo que estamos evaluando.
             p(data-aos="fade-left") Un ejemplo claro es el ámbito de la salud, donde indicadores como la presión arterial y la temperatura corporal son fundamentales para evaluar el estado de una persona y tomar decisiones médicas adecuadas. Cuando estos indicadores están fuera de los rangos normales, se toman decisiones para buscar atención médica.
             p(data-aos="fade-left") En el ámbito ambiental, los indicadores son vitales para comprender y evaluar fenómenos naturales, cambios climáticos, riesgos de especies, calidad del suelo y muchos otros aspectos. Estos indicadores ambientales pueden variar según los objetivos de estudio y los parámetros que se miden.
           .col-lg-4.col-md-6.col-10
@@ -214,31 +215,31 @@
             img(src='@/assets/curso/temas/tema5/9.svg' alt='AvatarTop')
           .tarjeta(style="background-color:#D5FFF5")
             .p-4
-            h4 Definición de objetivos y metas:
-            p.p-2 es fundamental comenzar con una definición clara de lo que se pretende medir o evaluar con el indicador. Establecer los objetivos y metas de manera precisa es el punto de partida.
+            h4 Definición de objetivos y metas
+            p.p-2 Es fundamental comenzar con una definición clara de lo que se pretende medir o evaluar con el indicador. Establecer los objetivos y metas de manera precisa es el punto de partida.
       .col-lg-8.col-12
         .tarjeta-avatar-b.mb-5
           .tarjeta-avatar-b__img            
             img(src='@/assets/curso/temas/tema5/10.svg' alt='AvatarTop')
           .tarjeta(style="background-color:#D5FFF5")
             .p-4
-            h4 Selección de temas:
-            p.p-2 se deben identificar los temas que se abordarán con el indicador. Estos temas deben estar relacionados con la sostenibilidad ambiental y social y ser de relevancia para el contexto local.
+            h4 Selección de temas
+            p.p-2 Se deben identificar los temas que se abordarán con el indicador. Estos temas deben estar relacionados con la sostenibilidad ambiental y social y ser de relevancia para el contexto local.
       .col-lg-8.col-12
         .tarjeta-avatar-b.mb-5
           .tarjeta-avatar-b__img            
             img(src='@/assets/curso/temas/tema5/11.svg' alt='AvatarTop')
           .tarjeta(style="background-color:#D5FFF5")
             .p-4
-            h4 Revisión de información existente:
-            p.p-2 antes de crear un indicador desde cero, es importante revisar la información disponible a nivel internacional y nacional. Esto proporciona una base sólida y permite la comparación con estándares y datos reconocidos.
+            h4 Revisión de información existente
+            p.p-2 Antes de crear un indicador desde cero, es importante revisar la información disponible a nivel internacional y nacional. Esto proporciona una base sólida y permite la comparación con estándares y datos reconocidos.
       .col-lg-8.col-12
         .tarjeta-avatar-b.mb-5
           .tarjeta-avatar-b__img            
             img(src='@/assets/curso/temas/tema5/12.svg' alt='AvatarTop')
           .tarjeta(style="background-color:#D5FFF5")
             .p-4
-            h4 Desarrollo de la propuesta:
+            h4 Desarrollo de la propuesta
             p.p-2 La ficha técnica debe describir de manera clara y sencilla cómo se construirá el indicador. Esto incluye la metodología, los datos necesarios, las fuentes de información y los cálculos requeridos. Es importante que esta descripción sea comprensible para un público amplio.
       .col-lg-8.col-12
         .tarjeta-avatar-b.mb-5
@@ -246,16 +247,16 @@
             img(src='@/assets/curso/temas/tema5/13.svg' alt='AvatarTop')
           .tarjeta(style="background-color:#D5FFF5")
             .p-4
-            h4 Socialización con expertos:
-            p.p-2 es crucial involucrar a expertos en el tema para revisar y perfeccionar la ficha técnica. La retroalimentación de profesionales con experiencia en la materia garantiza la calidad y la precisión del indicador.
+            h4 Socialización con expertos
+            p.p-2 Es crucial involucrar a expertos en el tema para revisar y perfeccionar la ficha técnica. La retroalimentación de profesionales con experiencia en la materia garantiza la calidad y la precisión del indicador.
       .col-lg-8.col-12
         .tarjeta-avatar-b.mb-5
           .tarjeta-avatar-b__img            
             img(src='@/assets/curso/temas/tema5/14.svg' alt='AvatarTop')
           .tarjeta(style="background-color:#D5FFF5")
             .p-4
-            h4 Consideración del contexto local:
-            p.p-2 los indicadores ambientales deben adaptarse a las necesidades y problemáticas específicas de cada territorio. Esto implica que no puede existir una única fórmula para crear indicadores, ya que cada contexto puede requerir enfoques diferentes.
+            h4 Consideración del contexto local
+            p.p-2 Los indicadores ambientales deben adaptarse a las necesidades y problemáticas específicas de cada territorio. Esto implica que no puede existir una única fórmula para crear indicadores, ya que cada contexto puede requerir enfoques diferentes.
 
     .row 
       p(data-aos="fade-left") La creación de fichas técnicas de indicadores ambientales es un proceso esencial para asegurar que los indicadores sean efectivos y útiles para medir la sostenibilidad y la calidad ambiental en contextos locales. Las fichas proporcionan un marco claro para la construcción, el seguimiento y la interpretación de los indicadores, lo que facilita la toma de decisiones informadas y la evaluación de políticas y acciones relacionadas con el medio ambiente y el desarrollo sostenible.
