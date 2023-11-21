@@ -26,6 +26,7 @@
         SlyderA(tipo="b")
           .row
             .col-md-6.mb-4.mb-md-0
+              h4 Planear 
               p Es esencial comenzar por identificar las actividades que requieren mejoras y establecer los objetivos que se desean alcanzar. Esto implica recopilar toda la información necesaria para analizar las causas de una situación desfavorable. Con base en este análisis, se elabora un plan de acción que incluye acciones preventivas y correctivas necesarias para abordar los problemas identificados y alcanzar los objetivos establecidos.
           
             .col-md-6

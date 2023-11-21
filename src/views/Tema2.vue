@@ -176,7 +176,7 @@
               tr
                 td Para expresarse se necesita no solo conocimiento del idioma, sino también de elementos no verbales, los cuales aportaran validez a lo que se quiera expresar.
                 td Escribir implica codificar la información mediante signos generalmente gráficos, que son expuestos sobre un elemento plano, como piedras, papel, digitales o realidad virtual o mixta hoy día.
-    p(data-aos="fade-left") Partiendo de lo anterior, se hace necesario explicar los tipos de textos de expresión escrita existentes, que podrá usar en su lugar de trabajo y que serán descritos a continuación.
+    p(data-aos="fade-left") Partiendo de lo anterior, se hace necesario explicar los tipos de textos de expresión escrita existentes, que podrá usar en su lugar de trabajo y que serán descritos a continuación:
 
     .row.justify-content-center.align-items-center 
       .col-lg-4.col-md-8.col-12.mb-3
