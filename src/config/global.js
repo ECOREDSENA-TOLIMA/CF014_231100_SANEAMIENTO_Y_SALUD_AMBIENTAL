@@ -240,6 +240,11 @@ export default {
         'https://repositorio.cetys.mx/bitstream/60000/421/1/ManualDeMedici%C3%B3nDelAprendizaje2019.pdf',
     },
     {
+      referencia: 'OCDE. (s. f.). Definición de indicadores ambientales.',
+      link:
+        'https://paot.org.mx/centro/ine-semarnat/indicadores05/indicadores04/presentacion/indicadores.shtml#:~:text=Seg%C3%BAn%20la%20OCDE%2C%20un%20indicador,del%20par%C3%A1metro%20en%20s%C3%AD%20mismo',
+    },
+    {
       referencia:
         'Universidad de Guadalajara. (s. f.) Clasificación general de las fuentes de información. Universidad de Guadalajara.',
       link:

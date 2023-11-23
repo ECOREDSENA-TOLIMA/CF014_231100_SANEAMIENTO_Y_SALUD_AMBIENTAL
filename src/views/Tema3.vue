@@ -25,40 +25,38 @@
         h4.titulo-cuarto
         SlyderA(tipo="b")
           .row
-            .col-md-6.mb-4.mb-md-0
+            .col-md-6.mb-4.mb-md-0.p-4
               h4 Planear 
               p Es esencial comenzar por identificar las actividades que requieren mejoras y establecer los objetivos que se desean alcanzar. Esto implica recopilar toda la información necesaria para analizar las causas de una situación desfavorable. Con base en este análisis, se elabora un plan de acción que incluye acciones preventivas y correctivas necesarias para abordar los problemas identificados y alcanzar los objetivos establecidos.
           
-            .col-md-6
+            .col-md-6.p-4
               figure
                 img(src='@/assets/curso/temas/tema3/1.jpg', alt='imagen decorativa')
           .row
-            .col-md-6.mb-4.mb-md-0
+            .col-md-6.mb-4.mb-md-0.p-4
               h4 Hacer
               p Implica la ejecución de las acciones que se planearon en la fase anterior. Es importante llevar a cabo estas acciones de acuerdo con el plan establecido. En esta etapa, se recomienda realizar una prueba piloto o un ensayo en un entorno controlado antes de implementar cambios a gran escala. Esta prueba piloto permite validar el funcionamiento de las acciones propuestas, identificar posibles problemas y realizar ajustes necesarios antes de aplicar los cambios de manera más amplia.
           
-            .col-md-6
+            .col-md-6.p-4
               figure
                 img(src='@/assets/curso/temas/tema3/2.jpg', alt='imagen decorativa')
           .row
-            .col-md-6.mb-4.mb-md-0
+            .col-md-6.mb-4.mb-md-0.p-4
               h4 Verificar
               p Implica la evaluación de la eficacia de las acciones que se han implementado. Es fundamental determinar si estas acciones han tenido el efecto esperado y han contribuido al logro de los objetivos establecidos en la etapa de "Planear". Si los resultados no cumplen con las expectativas o si se identifican desviaciones, será necesario considerar modificaciones y ajustes en las acciones implementadas. La fase de "Verificar" es esencial para asegurarse de que las mejoras propuestas estén teniendo el impacto deseado y que se esté avanzando hacia los objetivos establecidos.
           
-            .col-md-6
+            .col-md-6.p-4
               figure
                 img(src='@/assets/curso/temas/tema3/3.jpg', alt='imagen decorativa')
           .row
-            .col-md-6.mb-4.mb-md-0
+            .col-md-6.mb-4.mb-md-0.p-4
               h4 Actuar
               p Una vez que se ha completado el proceso, es fundamental estudiar los resultados obtenidos y compararlos con los datos que se tenían antes de la implementación de las acciones de mejora. Esta comparación permite evaluar si se han logrado mejoras significativas y si se han alcanzado los objetivos previamente establecidos. En caso de que los resultados no cumplan con las expectativas o se identifiquen desviaciones, se toman medidas para realizar ajustes y mejoras adicionales en los procesos.
           
-            .col-md-6
+            .col-md-6.p-4
               figure
                 img(src='@/assets/curso/temas/tema3/4.jpg', alt='imagen decorativa')
-    .row 
-      p(data-aos="fade-left") Este ciclo, a lo largo de las últimas décadas, ha sido una herramienta efectiva a nivel empresarial y se ha utilizado ampliamente en sistemas de gestión de calidad. Sus diferentes etapas permiten identificar errores, implementar mejoras continuas y realizar un seguimiento constante. A continuación, se describen cada una de estas etapas:
-
+    
     .row.justify-content-center.align-items-center.mb-3.mt-5
       .col-lg-10.col-12
         .tarjeta-avatar-b.mb-5

@@ -58,10 +58,10 @@
           .row.justify-content-center.col-ipad.align-items-center(titulo="")
             .col-md-12.mb-4.mb-md-0.col-lg-5
               h4 Formatos de video
-              p #[b Wmv:] para la compresión de archivos desarrollados con las tecnologías de Microsoft.
+              p #[b Wmv:] para la compresión de archivos desarrollados con las tecnologías de #[i Microsoft].
               p #[b Avi:] para archivos pesados.
               p #[b Mpeg:] para videos digitales que vayan a ser transmitidos en televisión de alta definición.
-              p #[b Mov:] para archivos desarrollados con la tecnología de Apple.
+              p #[b Mov:] para archivos desarrollados con la tecnología de #[i Apple].
           
             .col-md-10.col-lg-5
               figure
@@ -81,7 +81,7 @@
             .col-md-10.mb-4.mb-md-0.col-lg-5
               h4 Formatos de audio
               p #[b Wma:] se utiliza para audios que sean difundidos en internet.
-              p #[b Wav:] es utilizado para aquellos que le den manejo en Windows.
+              p #[b Wav:] es utilizado para aquellos que le den manejo en #[i Windows].
               p #[b Mp3:] este es el formato de audio más utilizado, ya que se puede comprimir en archivos pequeños similares a los de un CD.
           
             .col-md-12.col-lg-5
@@ -91,10 +91,10 @@
           .row.justify-content-center.col-ipad.align-items-center(titulo="")
             .col-md-10.mb-4.mb-md-0.col-lg-5
               h4 Formatos de uso exclusivo
-              p #[b Aep:] estos formatos están diseñados para detectar aquellos archivos que se utilizarán únicamente en Adobe After Effects.
-              p #[b Prproj:] son los que identifican los archivos que solo se usarán en Adobe Premiere.
-              p #[b Psd:] estos formatos son utilizados únicamente por Adobe Photoshop.
-              p #[b Cdr:] son los archivos que solo implementa el Corel Draw.
+              p #[b Aep:] estos formatos están diseñados para detectar aquellos archivos que se utilizarán únicamente en #[i Adobe After Effects].
+              p #[b Prproj:] son los que identifican los archivos que solo se usarán en #[i Adobe Premiere].
+              p #[b Psd:] estos formatos son utilizados únicamente por #[i Adobe Photoshop].
+              p #[b Cdr:] son los archivos que solo implementa el #[i Corel Draw].
           
             .col-md-12.col-lg-5
               figure
