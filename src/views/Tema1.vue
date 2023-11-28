@@ -58,10 +58,10 @@
           .row.justify-content-center.col-ipad.align-items-center(titulo="")
             .col-md-12.mb-4.mb-md-0.col-lg-5
               h4 Formatos de video
-              p #[b Wmv:] para la compresión de archivos desarrollados con las tecnologías de #[i Microsoft].
+              p #[b Wmv:] para la compresión de archivos desarrollados con las tecnologías de Microsoft.
               p #[b Avi:] para archivos pesados.
               p #[b Mpeg:] para videos digitales que vayan a ser transmitidos en televisión de alta definición.
-              p #[b Mov:] para archivos desarrollados con la tecnología de #[i Apple].
+              p #[b Mov:] para archivos desarrollados con la tecnología de Apple.
           
             .col-md-10.col-lg-5
               figure
@@ -81,7 +81,7 @@
             .col-md-10.mb-4.mb-md-0.col-lg-5
               h4 Formatos de audio
               p #[b Wma:] se utiliza para audios que sean difundidos en internet.
-              p #[b Wav:] es utilizado para aquellos que le den manejo en #[i Windows].
+              p #[b Wav:] es utilizado para aquellos que le den manejo en Windows.
               p #[b Mp3:] este es el formato de audio más utilizado, ya que se puede comprimir en archivos pequeños similares a los de un CD.
           
             .col-md-12.col-lg-5
@@ -91,10 +91,10 @@
           .row.justify-content-center.col-ipad.align-items-center(titulo="")
             .col-md-10.mb-4.mb-md-0.col-lg-5
               h4 Formatos de uso exclusivo
-              p #[b Aep:] estos formatos están diseñados para detectar aquellos archivos que se utilizarán únicamente en #[i Adobe After Effects].
-              p #[b Prproj:] son los que identifican los archivos que solo se usarán en #[i Adobe Premiere].
-              p #[b Psd:] estos formatos son utilizados únicamente por #[i Adobe Photoshop].
-              p #[b Cdr:] son los archivos que solo implementa el #[i Corel Draw].
+              p #[b Aep:] estos formatos están diseñados para detectar aquellos archivos que se utilizarán únicamente en Adobe After Effects.
+              p #[b Prproj:] son los que identifican los archivos que solo se usarán en Adobe Premiere.
+              p #[b Psd:] estos formatos son utilizados únicamente por Adobe Photoshop.
+              p #[b Cdr:] son los archivos que solo implementa el Corel Draw.
           
             .col-md-12.col-lg-5
               figure
@@ -113,7 +113,7 @@
             .col-md-10.mb-4.mb-md-0.col-lg-5
               h4 Formatos de hojas de cálculo
               p #[b Csv:] este formato se utiliza para almacenar archivos en los cuales no se guardan caracteres del programa en el que fue realizado. Esto le permite al usuario abrir la información desde otro tipo de programas.
-              p #[b Xls:] es el formato con el cual se guardan todos los documentos realizados directamente en #[i Microsoft Excel].
+              p #[b Xls:] es el formato con el cual se guardan todos los documentos realizados directamente en Microsoft Excel.
           
             .col-md-12.col-lg-5
               figure
@@ -122,7 +122,7 @@
           .row.justify-content-center.col-ipad.align-items-center(titulo="")
             .col-md-10.mb-4.mb-md-0.col-lg-5
               h4 Formatos de imagen
-              p #[b Mp:] acá se almacenan aquellos archivos que se abrirán en #[i Paint Brush].
+              p #[b Mp:] acá se almacenan aquellos archivos que se abrirán en Paint Brush.
               p #[b Gif:] este formato es empleado para almacenar imágenes que cuentan con diseños sencillos los cuales integran hasta 256 colores. 
               p #[b Png:] estos formatos son los más empleados en redes, ya que cuentan con unos archivos más completos.
               p #[b Jpg o Jpeg:] es utilizado para presentar y almacenar imágenes y fotos que no tienen movimiento. 
@@ -134,7 +134,7 @@
           .row.justify-content-center.col-ipad.align-items-center(titulo="")
             .col-md-10.mb-4.mb-md-0.col-lg-5
               h4 Formatos de textos
-              p #[b Rtf:] este es un lenguaje creado por #[i Microsoft] el cual es descriptivo y los programas pueden intercambiar datos.
+              p #[b Rtf:] este es un lenguaje creado por Microsoft el cual es descriptivo y los programas pueden intercambiar datos.
               p #[b Txt:] son aquellos formatos que únicamente almacenan texto.
           
             .col-md-12.col-lg-5
@@ -144,8 +144,8 @@
           .row.justify-content-center.col-ipad.align-items-center(titulo="")
             .col-md-10.mb-4.mb-md-0.col-lg-5
               h4 Formatos de textos
-              p #[b Pot:] es un formato en el cual se almacenan únicamente plantillas y diapositivas que fueron creadas en #[i PowerPoint.]
-              p #[b Ppt:] es el formato donde únicamente se guardan las presentaciones, como: imágenes, textos, videos y audios, hechos en #[i PowerPoint].
+              p #[b Pot:] es un formato en el cual se almacenan únicamente plantillas y diapositivas que fueron creadas en PowerPoint.
+              p #[b Ppt:] es el formato donde únicamente se guardan las presentaciones, como: imágenes, textos, videos y audios, hechos en PowerPoint.
           
             .col-md-12.col-lg-5
               figure
